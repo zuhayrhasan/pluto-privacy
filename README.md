@@ -1,2 +1,0 @@
-# pluto-privacy
-Privacy Policy.
