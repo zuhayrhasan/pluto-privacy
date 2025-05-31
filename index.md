@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-_Last updated: March 19, 2024_
+_Last updated: May 31, 2025_
 
 Pluto is committed to protecting your privacy. This policy explains what data we collect and how we use it.
 
